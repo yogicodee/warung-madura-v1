@@ -14,6 +14,7 @@ Sistem Manajemen Toko dan Kasir Modern yang dirancang khusus untuk efisiensi ope
 - **Ekspor Data**: Kemudahan untuk mengunduh laporan penjualan dalam format CSV untuk pembukuan eksternal.
 
 ## Preview
+<img width="1358" height="656" alt="image" src="https://github.com/user-attachments/assets/fa7cd914-088a-4546-acac-8f029df210fe" />
 
 
 ## 🛠️ Spesifikasi Teknis
