@@ -16,7 +16,7 @@ Sistem Manajemen Toko dan Kasir Modern yang dirancang khusus untuk efisiensi ope
 ## Preview
 <p align="center"><img width="1358" height="656" alt="image" src="https://github.com/user-attachments/assets/fa7cd914-088a-4546-acac-8f029df210fe" /></p>
 <p align="center"><img width="1360" height="645" alt="image" src="https://github.com/user-attachments/assets/e31d6b57-8a44-43ef-b781-5bc746928c74" /></p>
-<p align="center"><img width="1359" height="656" alt="image" src="https://github.com/user-attachments/assets/3993157c-5689-4748-bd4b-a0c4f14ed91a" />
+<p align="center"><img width="1359" height="656" alt="image" src="https://github.com/user-attachments/assets/3993157c-5689-4748-bd4b-a0c4f14ed91a" /></p>
 
 
 ## 🛠️ Spesifikasi Teknis
