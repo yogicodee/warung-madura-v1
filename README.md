@@ -13,6 +13,9 @@ Sistem Manajemen Toko dan Kasir Modern yang dirancang khusus untuk efisiensi ope
 - **Manajemen Biaya**: Fitur pencatatan pengeluaran operasional toko (Listrik, Gaji, Transport, dll).
 - **Ekspor Data**: Kemudahan untuk mengunduh laporan penjualan dalam format CSV untuk pembukuan eksternal.
 
+## Preview
+
+
 ## 🛠️ Spesifikasi Teknis
 
 - **Framework**: React 18 + Vite
